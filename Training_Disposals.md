@@ -2,7 +2,7 @@
 
 ### Preprocessing
 
- We performed data preprocessing for the Training_Disposals dataset in the following steps:
+ We performed data preprocessing in the following steps:
  
  #### Training Disposals
  
