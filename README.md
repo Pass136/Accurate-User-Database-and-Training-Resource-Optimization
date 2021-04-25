@@ -6,6 +6,8 @@ One of the Accenture's Federal clients has a global supply chain and the system 
 
  We performed data preprocessing in the following steps:
  
+ #### Training Disposals
+ 
 * Removed duplicates 
 * Changed the datatypes
 * Imputed the missing data
@@ -22,3 +24,4 @@ One of the Accenture's Federal clients has a global supply chain and the system 
 * Generated new dashboard
 * Renamed the new columns
 * Removed the dupicate rows
+* 
