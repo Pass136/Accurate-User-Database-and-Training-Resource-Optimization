@@ -4,4 +4,4 @@
 
 We performed data preprocessing in the following steps:
 
-#### Receiving 
+#### Training Receiving 
