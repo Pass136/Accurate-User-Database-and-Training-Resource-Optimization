@@ -11,4 +11,6 @@ One of the Accenture's Federal clients has a global supply chain and the system 
 * Performed some mathematical calculations to find the weights for disposal roles
 * Standardized the error cost column using the StandardScaler 
 * Normalized every other feature using the MinMaxScaler()  
-* 
+* Performed dimensionality reduction by using Principal component analysis (PCA)
+* Normalized rating
+* Merged the orginal total cost to the result for reference
