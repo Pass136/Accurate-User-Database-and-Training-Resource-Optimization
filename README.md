@@ -14,3 +14,8 @@ One of the Accenture's Federal clients has a global supply chain and the system 
 * Performed dimensionality reduction by using Principal component analysis (PCA)
 * Normalized rating
 * Merged the orginal total cost to the result for reference
+* Outer join two tables "top 10 highest scoring users" and orginal total cost and result tables by using common field "user"
+* Removed the duplicate rows
+* Generated new dashboard
+* Renamed the new columns
+* Removed the dupicate rows
