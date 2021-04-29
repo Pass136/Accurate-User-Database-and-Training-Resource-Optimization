@@ -13,8 +13,6 @@ We performed data preprocessing in the following steps:
 * Assigned weights to the role receiving
 * Standerdized the error cost feature using StandardScaler()
 * Normalized rest of the features using MinMaxScaler()
-* Performed dimantionality reduction using principal component analysis(PCA)
-* Normalizing the rating column
 * Displayed the results by score from large to small
 * Display top 10 users that have the higher scores
 * Outer join two tables by using common field "user"
