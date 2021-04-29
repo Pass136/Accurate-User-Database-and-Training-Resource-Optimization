@@ -14,8 +14,6 @@
 * Performed some mathematical calculations to find the weights for disposal roles
 * Standardized the error cost column using the StandardScaler 
 * Normalized every other feature using the MinMaxScaler()  
-* Performed dimensionality reduction by using Principal component analysis (PCA)
-* Normalized rating
 * Merged the orginal total cost to the result for reference
 * Outer join two tables "top 10 highest scoring users" and orginal total cost and result tables by using common field "user"
 * Removed the duplicate rows
