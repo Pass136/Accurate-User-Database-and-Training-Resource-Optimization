@@ -16,7 +16,6 @@ We performed data preprocessing in the following steps:
 * Standardized the role location column by using StandardScaler()
 * Normalized every feature by using MinMaxScaler()
 * Assigned weights to every attribute
-* Performed dimentionality reduction by using PCA
 * Merged the orginal total cost to the result for reference
 * Displayed reeults in a table in descending order
 * Displayed the top 10 users with highest socres in a table
